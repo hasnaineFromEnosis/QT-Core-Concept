@@ -1,0 +1,88 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-d8473de5a60e78645c16.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "QTCoreConcept",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "QTCoreConcept::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QTCoreConcept-Debug-9c2be8fad80820f4c426.json",
+					"name" : "QTCoreConcept",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QTCoreConcept_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QTCoreConcept_autogen-Debug-f1207eae8a71f12c2268.json",
+					"name" : "QTCoreConcept_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QTCoreConcept_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QTCoreConcept_autogen_timestamp_deps-Debug-483a6744f4ea4a0f1a30.json",
+					"name" : "QTCoreConcept_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "QTCoreConcept_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-QTCoreConcept_qmlimportscan-Debug-8257b48f8b6b9484d7c9.json",
+					"name" : "QTCoreConcept_qmlimportscan",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/hasnaine/Documents/QT Practice/QT Core Concept/build-QTCoreConcept-Desktop_Qt_6_4_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/hasnaine/Documents/QT Practice/QT Core Concept/QTCoreConcept"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
